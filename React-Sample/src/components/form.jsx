@@ -22,11 +22,7 @@ class Form extends Component {
         //initializes the class properties
         this.state = {
             name: "",
-            birthDate: "",
-            submitData: [{
-                submitName: "",
-                submitBirthDate:""
-            }],
+            birthDate: ""
         }
 
         //passing class context to each method.
