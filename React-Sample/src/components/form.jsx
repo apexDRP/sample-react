@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import '../web_resources/css/style.css';
 
-//inline style for dialogEPay component
+//inline style for form component
 const formBox = {
         fontSize: '1vw',
         fontFamily: 'poppins',
